@@ -1,0 +1,8 @@
+{
+  "AUTH0_DOMAIN": "dev-mytest.us.auth0.com",
+  "AUTH0_CLIENT_ID": "9GS3KFVXamwagJaaUj8YseLEfuhG2YMW",
+  "AUTH0_CLIENT_SECRET": "v7wNdMj4H4Ww7tdTeJnPbGLKplF0wrF2b_wzi-9Ae8Jou9eVizNotSuRSW5ymYdZ",
+  "AUTH0_KEYWORD_REPLACE_MAPPINGS": { "AUTH0_TENANT_NAME": "dev-mytest.us.auth0.com" },
+  "AUTH0_ALLOW_DELETE": false,
+  "AUTH0_EXCLUDED_RULES": [ "rule-1-name" ]
+}
